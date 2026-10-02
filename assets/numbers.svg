@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="5+ years building, 6 shipped projects, analyses exported to 4 languages, QuantAI free statistics tool">
+<style>.sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}.n{opacity:0;animation:up .7s ease-out forwards}@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.n{animation:none;opacity:1}}</style>
+<rect x="1" y="1" width="1278" height="148" rx="18" fill="#0C203B" stroke="#1C3A63" stroke-width="2"/>
+<g class="n" style="animation-delay:0.00s"><text x="160" y="80" text-anchor="middle" class="sans" font-size="48" font-weight="800" fill="#FFFFFF">5+<tspan fill="#E8573F">.</tspan></text><text x="160" y="112" text-anchor="middle" class="sans" font-size="16" fill="#AFC0D6">years building</text></g>
+<line x1="320" y1="36" x2="320" y2="114" stroke="#1C3A63" stroke-width="2"/>
+<g class="n" style="animation-delay:0.12s"><text x="480" y="80" text-anchor="middle" class="sans" font-size="48" font-weight="800" fill="#FFFFFF">6<tspan fill="#E8573F">.</tspan></text><text x="480" y="112" text-anchor="middle" class="sans" font-size="16" fill="#AFC0D6">shipped projects</text></g>
+<line x1="640" y1="36" x2="640" y2="114" stroke="#1C3A63" stroke-width="2"/>
+<g class="n" style="animation-delay:0.24s"><text x="800" y="80" text-anchor="middle" class="sans" font-size="48" font-weight="800" fill="#FFFFFF">4<tspan fill="#E8573F">.</tspan></text><text x="800" y="112" text-anchor="middle" class="sans" font-size="16" fill="#AFC0D6">code exports per analysis</text></g>
+<line x1="960" y1="36" x2="960" y2="114" stroke="#1C3A63" stroke-width="2"/>
+<g class="n" style="animation-delay:0.36s"><text x="1120" y="80" text-anchor="middle" class="sans" font-size="48" font-weight="800" fill="#FFFFFF">1<tspan fill="#E8573F">.</tspan></text><text x="1120" y="112" text-anchor="middle" class="sans" font-size="16" fill="#AFC0D6">free stats tool: QuantAI</text></g>
+</svg>

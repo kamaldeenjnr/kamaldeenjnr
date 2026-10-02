@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="392" viewBox="0 0 1280 392" role="img" aria-label="What Amadu does: statistics and modelling, maps and spatial data, software and dashboards">
+<style>.sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.c{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.c{animation:none;opacity:1}}</style>
+<g class="c" style="animation-delay:0.00s"><rect x="1" y="1" width="398" height="388" rx="18" fill="#0C203B" stroke="#1C3A63" stroke-width="2"/>
+<g transform="translate(32,34)"><path d="M0 44 L0 0 M0 44 L52 44" stroke="#AFC0D6" stroke-width="2.5" fill="none"/><circle cx="12" cy="32" r="3.5" fill="#C9D1DC"/><circle cx="22" cy="26" r="3.5" fill="#C9D1DC"/><circle cx="30" cy="20" r="3.5" fill="#C9D1DC"/><circle cx="42" cy="10" r="3.5" fill="#C9D1DC"/><line x1="6" y1="38" x2="50" y2="6" stroke="#E8573F" stroke-width="3" stroke-linecap="round"/></g>
+<text x="368" y="56" text-anchor="end" class="mono" font-size="15" fill="#5E7392">01</text>
+<text x="32" y="122" class="sans" font-size="25" font-weight="700" fill="#FFFFFF">Statistics &amp; modelling</text>
+<text x="32" y="158" class="sans" font-size="16.5" fill="#B7C3D3">Models built to survive review: the</text>
+<text x="32" y="182" class="sans" font-size="16.5" fill="#B7C3D3">right method, checked assumptions,</text>
+<text x="32" y="206" class="sans" font-size="16.5" fill="#B7C3D3">validated against real data.</text>
+<rect x="32" y="262" width="33" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="48" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">R</text>
+<rect x="72.6" y="262" width="76" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="110" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Python</text>
+<rect x="156.2" y="262" width="110" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="211" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Regression</text>
+<rect x="274.2" y="262" width="93" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="321" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Survival</text>
+<rect x="32" y="302" width="119" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="91" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Risk models</text>
+<rect x="158.6" y="302" width="110" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="214" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Validation</text>
+</g>
+<g class="c" style="animation-delay:0.15s"><rect x="441" y="1" width="398" height="388" rx="18" fill="#0C203B" stroke="#1C3A63" stroke-width="2"/>
+<g transform="translate(472,34)"><path d="M4 8 L18 2 L34 8 L50 2 L50 40 L34 46 L18 40 L4 46 Z" stroke="#AFC0D6" stroke-width="2.5" fill="none" stroke-linejoin="round"/><path d="M18 2 V40 M34 8 V46" stroke="#AFC0D6" stroke-width="2" opacity=".6"/><circle cx="27" cy="22" r="6" fill="#E8573F"/></g>
+<text x="808" y="56" text-anchor="end" class="mono" font-size="15" fill="#5E7392">02</text>
+<text x="472" y="122" class="sans" font-size="25" font-weight="700" fill="#FFFFFF">Maps &amp; spatial data</text>
+<text x="472" y="158" class="sans" font-size="16.5" fill="#B7C3D3">Geospatial epidemiology that turns</text>
+<text x="472" y="182" class="sans" font-size="16.5" fill="#B7C3D3">data into a clear answer: where the</text>
+<text x="472" y="206" class="sans" font-size="16.5" fill="#B7C3D3">burden is, and where to act first.</text>
+<rect x="472" y="262" width="76" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="510" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">ArcGIS</text>
+<rect x="555.6" y="262" width="144" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="628" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Spatial models</text>
+<rect x="472" y="302" width="119" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="531" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Choropleths</text>
+<rect x="598.6" y="302" width="127" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="662" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Malaria risk</text>
+<rect x="472" y="342" width="153" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="548" y="362" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Exceedance maps</text>
+</g>
+<g class="c" style="animation-delay:0.30s"><rect x="881" y="1" width="398" height="388" rx="18" fill="#0C203B" stroke="#1C3A63" stroke-width="2"/>
+<g transform="translate(912,34)"><rect x="2" y="4" width="50" height="36" rx="5" stroke="#AFC0D6" stroke-width="2.5" fill="none"/><path d="M2 14 H52" stroke="#AFC0D6" stroke-width="2"/><rect x="9" y="22" width="7" height="12" fill="#C9D1DC"/><rect x="20" y="18" width="7" height="16" fill="#C9D1DC"/><rect x="31" y="25" width="7" height="9" fill="#E8573F"/><path d="M18 46 H36" stroke="#AFC0D6" stroke-width="2.5" stroke-linecap="round"/></g>
+<text x="1248" y="56" text-anchor="end" class="mono" font-size="15" fill="#5E7392">03</text>
+<text x="912" y="122" class="sans" font-size="25" font-weight="700" fill="#FFFFFF">Software &amp; dashboards</text>
+<text x="912" y="158" class="sans" font-size="16.5" fill="#B7C3D3">Full-stack web apps, dashboards and</text>
+<text x="912" y="182" class="sans" font-size="16.5" fill="#B7C3D3">sites that clients run themselves:</text>
+<text x="912" y="206" class="sans" font-size="16.5" fill="#B7C3D3">payments, maps, logins and all.</text>
+<rect x="912" y="262" width="110" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="967" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">JavaScript</text>
+<rect x="1030.0" y="262" width="84" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="1072" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Node.js</text>
+<rect x="1122.2" y="262" width="67" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="1156" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">React</text>
+<rect x="1197.2" y="262" width="50" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="1222" y="282" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">SQL</text>
+<rect x="912" y="302" width="93" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="958" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Paystack</text>
+<rect x="1012.8" y="302" width="110" height="30" rx="15" fill="#132B4D" stroke="#24456F"/><text x="1068" y="322" text-anchor="middle" class="mono" font-size="13.5" fill="#D6DEE8">Dashboards</text>
+</g>
+</svg>
