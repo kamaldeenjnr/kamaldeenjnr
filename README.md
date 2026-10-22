@@ -3,11 +3,12 @@
 </a>
 
 <p align="center">
-  <a href="https://modelanalysishub.com"><img src="https://img.shields.io/badge/modelanalysishub.com-0C203B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://modelanalysishub.com/ai.html"><img src="https://img.shields.io/badge/Try_QuantAI-C4412B?style=for-the-badge&logo=databricks&logoColor=white" alt="Try QuantAI"></a>
-  <a href="https://www.linkedin.com/in/amadu-kamal-65ab5326a"><img src="https://img.shields.io/badge/LinkedIn-0C203B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/233595586430"><img src="https://img.shields.io/badge/WhatsApp-0C203B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="mailto:amadukamal8@gmail.com"><img src="https://img.shields.io/badge/Email-0C203B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://modelanalysishub.com"><b>modelanalysishub.com</b></a> &nbsp;·&nbsp;
+  <a href="https://modelanalysishub.com/ai.html">QuantAI</a> &nbsp;·&nbsp;
+  <a href="https://modelanalysishub.com/opportunities.html">Opportunities</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/amadu-kamal-65ab5326a">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/233595586430">WhatsApp</a> &nbsp;·&nbsp;
+  <a href="mailto:amadukamal8@gmail.com">Email</a>
 </p>
 
 <br>
@@ -20,13 +21,15 @@ I work in the gap between good analysis and real decisions. Too often a careful 
 
 <br>
 
-<img src="assets/numbers.svg" width="100%" alt="5+ years building · 6 shipped projects · 4 code exports per analysis · QuantAI, a free statistics tool">
+<img src="assets/now.svg" width="100%" alt="Now building QuantAI · Latest: an opportunities board for Ghanaians · Open to data analysis and web projects">
 
 <br>
 
 ## What I do
 
 <img src="assets/pillars.svg" width="100%" alt="Statistics and modelling · Maps and spatial data · Software and dashboards">
+
+<sub>Also in the toolkit: Stata · SciPy · scikit-learn · Leaflet · Cloudflare Workers · Vercel · Render</sub>
 
 <br>
 
@@ -92,49 +95,15 @@ I work in the gap between good analysis and real decisions. Too often a careful 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kamaldeenjnr/stroke-risk-prediction">stroke-risk-prediction</a></h3>
       <p>A machine-learning pipeline for stroke risk on real clinical data, where only 4.9% of patients have the outcome. It handles the imbalance with SMOTE and tunes the model for 80% recall, because a screening tool must catch at-risk patients.</p>
-      <img src="https://img.shields.io/badge/Python-0C203B?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-0C203B?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <sub><code>Python</code> <code>scikit-learn</code> <code>SMOTE</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kamaldeenjnr/model-analysis--hub">model-analysis--hub</a></h3>
       <p>The source of modelanalysishub.com, including QuantAI's in-browser statistics engine: assumption-checked tests, GLMs, Cox, ordinal, multinomial and mixed models, all in plain JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-0C203B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Cloudflare_Workers-0C203B?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+      <sub><code>JavaScript</code> <code>Cloudflare Workers</code> <code>GitHub Pages</code></sub>
     </td>
   </tr>
 </table>
-
-<br>
-
-## Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/R-0C203B?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Python-0C203B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-0C203B?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciPy-0C203B?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/scikit--learn-0C203B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Stata-0C203B?style=for-the-badge&logoColor=white" alt="Stata">
-  <img src="https://img.shields.io/badge/ArcGIS-0C203B?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-0C203B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-0C203B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-0C203B?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/SQL-0C203B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-0C203B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS">
-  <img src="https://img.shields.io/badge/Paystack-0C203B?style=for-the-badge&logoColor=white" alt="Paystack">
-  <img src="https://img.shields.io/badge/Leaflet-0C203B?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet">
-  <img src="https://img.shields.io/badge/Cloudflare-0C203B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Vercel-0C203B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Render-0C203B?style=for-the-badge&logo=render&logoColor=white" alt="Render">
-</p>
-
-<br>
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamaldeenjnr/kamaldeenjnr/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/kamaldeenjnr/kamaldeenjnr/output/snake.svg" width="100%" alt="Contribution graph animation">
-</picture>
 
 <br>
 
@@ -143,8 +112,7 @@ I work in the gap between good analysis and real decisions. Too often a careful 
 Have data that should drive a decision, or a website or platform to build? Send a short message saying what you have and what you need from it. Replies usually come the same day.
 
 <p>
-  <a href="https://wa.me/233595586430"><img src="https://img.shields.io/badge/WhatsApp_+233_59_558_6430-C4412B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +233 59 558 6430"></a>
-  <a href="mailto:amadukamal8@gmail.com"><img src="https://img.shields.io/badge/amadukamal8@gmail.com-0C203B?style=for-the-badge&logo=gmail&logoColor=white" alt="amadukamal8@gmail.com"></a>
+  <a href="https://wa.me/233595586430"><b>WhatsApp +233 59 558 6430</b></a> &nbsp;·&nbsp; <a href="mailto:amadukamal8@gmail.com">amadukamal8@gmail.com</a>
 </p>
 
 <sub>Built in Ghana · <a href="https://modelanalysishub.com">modelanalysishub.com</a></sub>
