@@ -21,7 +21,7 @@ I work in the gap between good analysis and real decisions. Too often a careful 
 
 <br>
 
-<img src="assets/now.svg" width="100%" alt="Now building QuantAI · Latest: an opportunities board for Ghanaians · Open to data analysis and web projects">
+<img src="assets/now.svg" width="100%" alt="Now building SafeWatch, water emergency alerts for the Volta Lake · Latest: an opportunities board for Ghanaians · Open to data analysis and web projects">
 
 <br>
 
@@ -36,6 +36,16 @@ I work in the gap between good analysis and real decisions. Too often a careful 
 ## Selected work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://modelanalysishub.com/projects.html#safewatch"><img src="assets/work/safewatch.webp" width="100%" alt="SafeWatch front page: one button for trouble on the water, and a phone showing an alert accepted by a responder"></a>
+      <h3>SafeWatch</h3>
+      <sub><b>GRANT PROJECT · WATER EMERGENCY ALERTS · 2026</b></sub>
+      <p>People drown on the Volta Lake every year and help often starts late. SafeWatch sends an SOS with the phone's location to the person on duty for that stretch of water, and calls the next person if nobody answers. It works from an Android app, a browser, plain SMS or a dial code on any phone. Fishers can say when they'll be back, and if they don't check in the alert goes out by itself. Storm warnings go out in Ewe, Twi and English.</p>
+      <sub><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>React Native</code> <code>SMS and USSD</code></sub><br><br>
+      <a href="https://safewatch-xyqr.onrender.com"><b>Open SafeWatch →</b></a> &nbsp;·&nbsp; <a href="https://modelanalysishub.com/projects.html#safewatch"><b>Case study →</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://modelanalysishub.com/ai.html"><img src="assets/work/quantai.webp" width="100%" alt="QuantAI chat interface"></a>
