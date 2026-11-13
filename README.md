@@ -1,5 +1,5 @@
 <a href="https://modelanalysishub.com">
-  <img src="assets/banner.png" width="100%" alt="Kamal Amadu. Data analyst, software engineer, public health. Beside the name, Ghana's regions shaded by predicted malaria risk from his 2025 spatial model.">
+  <img src="assets/banner.png" width="100%" alt="Amadu Kamal. Data analyst, software engineer, public health. Beside the name, Ghana's regions shaded by predicted malaria risk from his 2025 spatial model.">
 </a>
 
 <p align="center">
